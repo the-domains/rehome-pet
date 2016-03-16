@@ -1,0 +1,28 @@
+name: Rehome Pet
+favicon: null
+layout_spectrum: 0.3433489550370723
+typography_spectrum: 0.4799363783095032
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.31695660948753357
+  lightness: 0.8409002695698291
+  saturation: 0.45300381537526846
+  rhythmicContrast: 0.874175721546635
+purpose: []
